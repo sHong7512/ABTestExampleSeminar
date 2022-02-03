@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915574864385",
+    "project_id": "abtestexampleseminar",
+    "storage_bucket": "abtestexampleseminar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915574864385:android:abe973f94942e502ba9e00",
+        "android_client_info": {
+          "package_name": "com.shong.abtestexampleseminar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915574864385-pvvblcbq841qhf976lbv4tvsmmfrrnfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8mkvY_FMz9Vz9HjErjLzuRmElipHoywA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915574864385-pvvblcbq841qhf976lbv4tvsmmfrrnfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
